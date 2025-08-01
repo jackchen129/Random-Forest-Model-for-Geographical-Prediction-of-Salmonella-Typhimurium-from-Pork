@@ -1,1 +1,1 @@
-# Machine-learning-driven-comparative-genomics-of-Salmonella-enterica-serotype-Typhimurium-from-pork
+# Machine Learning-Driven Comparative Genomics of Salmonella enterica Serotype Typhimurium from Pork
