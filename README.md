@@ -1,5 +1,5 @@
-# Geographical Prediction of *Salmonella enterica* Serotype Typhimurium from Pork
-Random Forest Model for Geographical Prediction of *Salmonella enterica* Serotype Typhimurium from Pork in China and the United States Trained Based on Gene Presence/Absence
+# Geographic Prediction of *Salmonella enterica* Serotype Typhimurium from Pork
+Random Forest Model for Geographic Prediction of *Salmonella enterica* Serotype Typhimurium from Pork in China and the United States Trained Based on Gene Presence/Absence
 
 This repository contains R scripts for predicting the isolation source (*China* vs. *USA*) of *Salmonella* Typhimurium isolates from pork using a random forest model trained on pan-genome gene presence/absence data.
 
